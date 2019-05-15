@@ -3,3 +3,6 @@ body{
 	background-color: gray
 }
 /* Поменяй шрифт своего имени на синий*/ 
+h1,h2,h3{
+	color:blue;
+}
